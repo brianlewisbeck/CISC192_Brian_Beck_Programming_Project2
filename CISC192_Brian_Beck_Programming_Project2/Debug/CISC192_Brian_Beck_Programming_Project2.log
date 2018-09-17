@@ -1,0 +1,3 @@
+﻿  CISC192_Brian_Beck_Programming_Project2.cpp
+c:\users\brian beck\source\repos\cisc192_brian_beck_programming_project2\cisc192_brian_beck_programming_project2\cisc192_brian_beck_programming_project2.cpp(93): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CISC192_Brian_Beck_Programming_Project2.vcxproj -> C:\Users\Brian Beck\source\repos\CISC192_Brian_Beck_Programming_Project2\Debug\CISC192_Brian_Beck_Programming_Project2.exe
